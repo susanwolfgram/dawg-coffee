@@ -111,11 +111,11 @@ h2 {
 		margin-bottom: 1em;
 	}
 
-	#nav {
+	nav {
 		background-color: rgba(24, 28, 34, 0.8);
 	}
 
-	#nav li {
+	nav li {
 		padding-left: 1em;
 		padding-right: 1em; 
 	}
@@ -146,7 +146,7 @@ h2 {
 	background-color: #dbdce3;
 }
 
-#nav {
+nav {
 	background-color: #181C22;
 	font-size: 16px;
 	font-variant: small-caps;
@@ -155,18 +155,18 @@ h2 {
 	z-index: 1000; 
 }
 
-#nav a, #nav svg {
+nav a, nav svg {
 	color: white; 
 	fill: currentColor;
 	margin-top: 0.5em;
 
 }
 
-#nav a, #nav a:hover  {
+nav a, nav a:hover  {
 	text-decoration: none; 
 }
 
-#nav a:hover, #nav svg:hover {
+nav a:hover, nav svg:hover {
 	color: #D87E28;
 	fill: currentColor;
 }
@@ -175,7 +175,7 @@ li {
 	display: inline;
 	padding: 0.5em;	
 }
-#nav ul {	
+nav ul {	
 	list-style: none;
 	margin-left: 15px;
 }
