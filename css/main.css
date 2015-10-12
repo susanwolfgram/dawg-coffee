@@ -87,6 +87,7 @@ h2 {
 	#header {
 		background-image: url("../img/background-sm.jpg");
 		background-repeat: no-repeat;
+		
 		color: white;
 		min-height: 550px; 
 		text-align: right; 
@@ -111,6 +112,7 @@ h2 {
 		margin-bottom: 1em;
 	}
 
+	
 	nav {
 		background-color: rgba(24, 28, 34, 0.8);
 	}
