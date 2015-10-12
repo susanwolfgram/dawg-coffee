@@ -23,14 +23,11 @@ body {
 
 #cafe svg {
 	display: block;
+	fill: #D87E28;
+	height: 1.5em;
 	margin-bottom: 1em;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-#cafe svg {
-	fill: #D87E28;
-	height: 1.5em;
 	margin-top: 1em;
 }
 
