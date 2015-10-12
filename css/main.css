@@ -87,7 +87,7 @@ h2 {
 	#header {
 		background-image: url("../img/background-sm.jpg");
 		background-repeat: no-repeat;
-		
+
 		color: white;
 		min-height: 550px; 
 		text-align: right; 
@@ -142,10 +142,6 @@ h2 {
 		background-image: url("../img/background-lg.jpg");
 	}
 	
-}
-
-#menu {
-	background-color: #dbdce3;
 }
 
 nav {
